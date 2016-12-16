@@ -44,13 +44,13 @@
     "can-route": "*",
     "can-route-pushstate": "*",
     "can-stache": "*",
-    "steal": "^1.0.0-rc2",
+    "steal": "*",
     "steal-stache": "*",
     "done-autorender": "*",
     "done-ssr-middleware": "*"
   },
   "devDependencies": {
-    "copy-dir": "0.0.8",
+    "copy-dir": "*",
     "documentjs": "^0.3.0",
     "es6-promise": "^3.1.2",
     "jquery": "~2.2.1",
